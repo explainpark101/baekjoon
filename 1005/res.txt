@@ -1,0 +1,12 @@
+node=8, {6, 7}, lvl=0
+node=6, {3, 4}, lvl=1
+node=3, {1}, lvl=2
+node=1, set(), lvl=3
+node=4, {2}, lvl=2
+node=2, {1}, lvl=3
+node=1, set(), lvl=4
+node=7, {5}, lvl=1
+node=5, {3}, lvl=2
+node=3, {1}, lvl=3
+node=1, set(), lvl=4
+{6, 7}
