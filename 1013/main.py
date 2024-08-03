@@ -1,0 +1,1 @@
+import re; print(not (m := re.match(r"(100+(1+(?!00))|01)+", s:=input().strip())) or m.end()-m.start() != len(s) and "NO" or "YES")
